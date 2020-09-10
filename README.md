@@ -21,4 +21,4 @@ Run app...
 npm run dev
 ```
 
-[Demo](https://svelte-password-generator-app.herokuapp.com/)
+[Demo](https://svelte-password-generator.herokuapp.com/)
